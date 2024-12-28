@@ -1,0 +1,24 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python generally
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+*.egg
+
+# Distribution / packaging
+build/
+dist/
+.venv/
+venv/
+.idea
+*.bak
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb-meta
