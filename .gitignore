@@ -22,3 +22,6 @@ venv/
 # Jupyter Notebook
 .ipynb_checkpoints/
 *.ipynb-meta
+
+# Data files
+files/
